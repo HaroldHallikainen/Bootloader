@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/Bootloader/production/Bootloader.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>17536</length>                 
+      <used>7216</used>                     
+      <free>10320</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>131072</length>                 
+      <used>268</used>                     
+      <free>130804</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

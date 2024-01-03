@@ -1,0 +1,1 @@
+ $(MP_EXTRA_CC_PRE)  -g -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -ffunction-sections -I"../src" -I"../src/config/Bootloader" -Werror -Wall   -DXPRJ_Bootloader=$(CND_CONF)    $(COMPARISON_BUILD)  -mdfp="${DFP_DIR}"  C:\Users\Harold_Win7\Documents\Microchip\Projects\Bootloader\firmware\src\config\Bootloader\peripheral\nvm\plib_nvm.c
