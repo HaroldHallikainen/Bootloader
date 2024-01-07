@@ -3,27 +3,27 @@ Optional file vector_offset_init.o not found
 Archive member included to satisfy reference by file (symbol)
 
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (_bootstrap_exception_handler)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (_bootstrap_exception_handler)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (_on_reset)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (_on_reset)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (_on_bootstrap)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (_on_bootstrap)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-nmi-handler.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (_nmi_handler)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (_nmi_handler)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_data_init.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (__pic32_data_init)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (__pic32_data_init)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_init_cache.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (__pic32_init_cache)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (__pic32_init_cache)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_init_tlb_ebi_sqi.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (__pic32_tlb_init_ebi_sqi)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (__pic32_tlb_init_ebi_sqi)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(general-exception.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (_general_exception_context)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (_general_exception_context)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(cache-err-exception.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (_cache_err_exception_context)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (_cache_err_exception_context)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(simple-tlb-refill-exception.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o (_simple_tlb_refill_exception_context)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o (_simple_tlb_refill_exception_context)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
-                              C:\Users\HAROLD~1\AppData\Local\Temp\ccdIdv1O.o (_DefaultInterrupt)
+                              C:\Users\HAROLD~1\AppData\Local\Temp\ccssqdB0.o (_DefaultInterrupt)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
                               c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(general-exception.o) (_general_exception_handler)
 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
@@ -38,12 +38,12 @@ section                    address  length [bytes]      (dec)  Description
 -------                 ----------  -------------------------  -----------
 .simple_tlb_refill_excp 0x9fc01000           0x10          16   
 .text.general_exception 0x9fc01010           0xdc         220   
-.text._on_reset         0x9fc010ec            0x8           8   
-.text._on_bootstrap     0x9fc010f4            0x8           8   
+.text._on_bootstrap     0x9fc010ec            0x8           8   
 .cache_err_excpt        0x9fc01100           0x10          16   
 .text.run_Application   0x9fc01110           0x6c         108   
 .app_excpt              0x9fc01180           0x10          16  General-Exception 
-.text.bootloader_Task   0x9fc01190           0x6c         108   
+.text.HexCharToBin      0x9fc01190           0x68         104   
+.text._on_reset         0x9fc011f8            0x8           8   
 .vectors                0x9fc01200           0x48          72   
 .text.InterpretIntelHex 0x9fc01248          0x434        1076   
 .dinit                  0x9fc0167c          0x3c0         960   
@@ -56,30 +56,30 @@ section                    address  length [bytes]      (dec)  Description
 .text.CLK_Initialize    0x9fc020c4           0xbc         188   
 .tlb.__pic32_tlb_init_e 0x9fc02180           0xbc         188   
 .text.NVMUnlock         0x9fc0223c           0xb0         176   
-.text.TwoHexCharToBin   0x9fc022ec           0x90         144   
-.text.EightHexCharToBin 0x9fc0237c           0x8c         140   
-.text                   0x9fc02408           0x8c         140  App's exec code 
-.text.FourHexCharToBinB 0x9fc02494           0x80         128   
-.text.HexCharToBin      0x9fc02514           0x68         104   
-.text.EVIC_Initialize   0x9fc0257c           0x68         104   
-.text.UartWriteString   0x9fc025e4           0x64         100   
-.text.TMR2_Initialize   0x9fc02648           0x58          88   
-.text.CORETIMER_Initial 0x9fc026a0           0x54          84   
-.text.UART1_Initialize  0x9fc026f4           0x54          84   
-.text.main_entry        0x9fc02748           0x54          84   
-.text.UART1_WriteByte   0x9fc0279c           0x4c          76   
-.text.UART1_ReceiverIsR 0x9fc027e8           0x48          72   
-.text._bootstrap_except 0x9fc02830           0x48          72   
-.text._general_exceptio 0x9fc02878           0x48          72   
-.text._cache_err_except 0x9fc028c0           0x48          72   
-.text._simple_tlb_refil 0x9fc02908           0x48          72   
-.text                   0x9fc02950           0x44          68  App's exec code 
-.text.main              0x9fc02994           0x40          64   
-.text.WDT_Clear         0x9fc029d4           0x3c          60   
-.text.UART1_ReadByte    0x9fc02a10           0x28          40   
-.MIPS.abiflags          0x9fc02a38           0x18          24   
-.text                   0x9fc02a50           0x18          24  App's exec code 
-      Total kseg0_program_mem used  :      0x1a5c        6748  41.2% of 0x4000
+.text.bootloader_Task   0x9fc022ec           0x94         148   
+.text.TwoHexCharToBin   0x9fc02380           0x90         144   
+.text.EightHexCharToBin 0x9fc02410           0x8c         140   
+.text                   0x9fc0249c           0x8c         140  App's exec code 
+.text.FourHexCharToBinB 0x9fc02528           0x80         128   
+.text.EVIC_Initialize   0x9fc025a8           0x68         104   
+.text.UartWriteString   0x9fc02610           0x64         100   
+.text.TMR2_Initialize   0x9fc02674           0x58          88   
+.text.CORETIMER_Initial 0x9fc026cc           0x54          84   
+.text.UART1_Initialize  0x9fc02720           0x54          84   
+.text.main_entry        0x9fc02774           0x54          84   
+.text.UART1_WriteByte   0x9fc027c8           0x4c          76   
+.text.UART1_ReceiverIsR 0x9fc02814           0x48          72   
+.text._bootstrap_except 0x9fc0285c           0x48          72   
+.text._general_exceptio 0x9fc028a4           0x48          72   
+.text._cache_err_except 0x9fc028ec           0x48          72   
+.text._simple_tlb_refil 0x9fc02934           0x48          72   
+.text                   0x9fc0297c           0x44          68  App's exec code 
+.text.main              0x9fc029c0           0x40          64   
+.text.WDT_Clear         0x9fc02a00           0x3c          60   
+.text.UART1_ReadByte    0x9fc02a3c           0x28          40   
+.MIPS.abiflags          0x9fc02a68           0x18          24   
+.text                   0x9fc02a80           0x18          24  App's exec code 
+      Total kseg0_program_mem used  :      0x1a84        6788  41.4% of 0x4000
 
 kseg1 Boot-Memory Usage
 section                    address  length [bytes]      (dec)  Description
@@ -88,7 +88,7 @@ section                    address  length [bytes]      (dec)  Description
 .bev_excpt              0xbfc00380           0x10          16  BEV-Exception 
          Total kseg1_boot_mem used  :       0x1d4         468  40.6% of 0x480
         --------------------------------------------------------------------------
-         Total Program Memory used  :      0x1c30        7216  41.1% of 0x4480
+         Total Program Memory used  :      0x1c58        7256  41.4% of 0x4480
         --------------------------------------------------------------------------
 
 
@@ -286,31 +286,31 @@ Discarded input sections
  .reginfo       0x0000000000000000       0x18 build/Bootloader/production/_ext/1360937237/main.o
  .MIPS.abiflags
                 0x0000000000000000       0x18 build/Bootloader/production/_ext/1360937237/main.o
- .text          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
- .data          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
- .bss           0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
- .reginfo       0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
+ .text          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
+ .data          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
+ .bss           0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
+ .reginfo       0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
- .text          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccRz7nYM.o
- .data          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccRz7nYM.o
- .bss           0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccRz7nYM.o
- .reginfo       0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccRz7nYM.o
+                0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
+ .text          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccLLZbN4.o
+ .data          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccLLZbN4.o
+ .bss           0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccLLZbN4.o
+ .reginfo       0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccLLZbN4.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccRz7nYM.o
- .text          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
- .data          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
- .bss           0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
- .reginfo       0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccLLZbN4.o
+ .text          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
+ .data          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
+ .bss           0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
+ .reginfo       0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
- .text          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccdIdv1O.o
- .data          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccdIdv1O.o
- .bss           0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccdIdv1O.o
- .reginfo       0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccdIdv1O.o
+                0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
+ .text          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccssqdB0.o
+ .data          0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccssqdB0.o
+ .bss           0x0000000000000000        0x0 C:\Users\HAROLD~1\AppData\Local\Temp\ccssqdB0.o
+ .reginfo       0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccssqdB0.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccdIdv1O.o
- .discard       0x0000000000000000        0x4 C:\Users\HAROLD~1\AppData\Local\Temp\ccdIdv1O.o
+                0x0000000000000000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccssqdB0.o
+ .discard       0x0000000000000000        0x4 C:\Users\HAROLD~1\AppData\Local\Temp\ccssqdB0.o
  .data          0x0000000000000000        0x0 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
  .bss           0x0000000000000000        0x0 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
  .reginfo       0x0000000000000000       0x18 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
@@ -1090,16 +1090,16 @@ END GROUP
 
 .reset          0x00000000bfc00000      0x1c4
  *(.reset)
- .reset         0x00000000bfc00000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
+ .reset         0x00000000bfc00000       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
                 0x00000000bfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0x00000000bfc00018      0x1ac C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
+                0x00000000bfc00018      0x1ac C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
                 0x00000000bfc00018                _startup
 
 .bev_excpt      0x00000000bfc00380       0x10
  *(.bev_handler)
- .bev_handler   0x00000000bfc00380       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
+ .bev_handler   0x00000000bfc00380       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
 
 .cache_init     0x00000000bfc004b0      0x1c0
  *(.cache_init)
@@ -1114,17 +1114,17 @@ END GROUP
                 0x000000009fc01000       0x10
  *(.simple_tlb_refill_vector)
  .simple_tlb_refill_vector
-                0x000000009fc01000       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
+                0x000000009fc01000       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
 
 .cache_err_excpt
                 0x000000009fc01100       0x10
  *(.cache_err_vector)
  .cache_err_vector
-                0x000000009fc01100       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
+                0x000000009fc01100       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
 
 .app_excpt      0x000000009fc01180       0x10
  *(.gen_handler)
- .gen_handler   0x000000009fc01180       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
+ .gen_handler   0x000000009fc01180       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
 
 .vectors        0x000000009fc01200       0x48
                 0x000000009fc01200                . = ALIGN (0x4)
@@ -2223,69 +2223,69 @@ END GROUP
  *.elf(.debug_pubnames)
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000   0x238dec
+.debug_info     0x0000000000000000   0x238dee
  *.elf(.debug_info .gnu.linkonce.wi.*)
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x0000000000000000    0x38f47 build/Bootloader/production/_ext/1204855844/bootloader.o
- .debug_info    0x0000000000038f47    0x38c1a build/Bootloader/production/_ext/297513190/plib_clk.o
- .debug_info    0x0000000000071b61    0x38d6c build/Bootloader/production/_ext/974286902/plib_coretimer.o
- .debug_info    0x00000000000aa8cd    0x39232 build/Bootloader/production/_ext/633043527/plib_evic.o
- .debug_info    0x00000000000e3aff    0x38de0 build/Bootloader/production/_ext/633097355/plib_gpio.o
- .debug_info    0x000000000011c8df    0x38dc4 build/Bootloader/production/_ext/297529565/plib_tmr2.o
- .debug_info    0x00000000001556a3    0x3905d build/Bootloader/production/_ext/633500298/plib_uart1.o
- .debug_info    0x000000000018e700    0x38cd2 build/Bootloader/production/_ext/297532171/plib_wdt.o
- .debug_info    0x00000000001c73d2    0x38c33 build/Bootloader/production/_ext/1591581672/initialization.o
- .debug_info    0x0000000000200005    0x38c25 build/Bootloader/production/_ext/1360937237/main.o
- .debug_info    0x0000000000238c2a       0x41 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_info    0x0000000000238c6b       0x3f c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
- .debug_info    0x0000000000238caa       0x3f c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
- .debug_info    0x0000000000238ce9       0x40 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
- .debug_info    0x0000000000238d29       0x41 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
- .debug_info    0x0000000000238d6a       0x41 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
- .debug_info    0x0000000000238dab       0x41 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
+ .debug_info    0x0000000000000000    0x38f49 build/Bootloader/production/_ext/1204855844/bootloader.o
+ .debug_info    0x0000000000038f49    0x38c1a build/Bootloader/production/_ext/297513190/plib_clk.o
+ .debug_info    0x0000000000071b63    0x38d6c build/Bootloader/production/_ext/974286902/plib_coretimer.o
+ .debug_info    0x00000000000aa8cf    0x39232 build/Bootloader/production/_ext/633043527/plib_evic.o
+ .debug_info    0x00000000000e3b01    0x38de0 build/Bootloader/production/_ext/633097355/plib_gpio.o
+ .debug_info    0x000000000011c8e1    0x38dc4 build/Bootloader/production/_ext/297529565/plib_tmr2.o
+ .debug_info    0x00000000001556a5    0x3905d build/Bootloader/production/_ext/633500298/plib_uart1.o
+ .debug_info    0x000000000018e702    0x38cd2 build/Bootloader/production/_ext/297532171/plib_wdt.o
+ .debug_info    0x00000000001c73d4    0x38c33 build/Bootloader/production/_ext/1591581672/initialization.o
+ .debug_info    0x0000000000200007    0x38c25 build/Bootloader/production/_ext/1360937237/main.o
+ .debug_info    0x0000000000238c2c       0x41 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x0000000000238c6d       0x3f c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
+ .debug_info    0x0000000000238cac       0x3f c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
+ .debug_info    0x0000000000238ceb       0x40 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
+ .debug_info    0x0000000000238d2b       0x41 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
+ .debug_info    0x0000000000238d6c       0x41 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
+ .debug_info    0x0000000000238dad       0x41 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
 
-.debug_abbrev   0x0000000000000000     0x150b
+.debug_abbrev   0x0000000000000000     0x14ed
  *.elf(.debug_abbrev)
  *(.debug_abbrev)
- .debug_abbrev  0x0000000000000000      0x2f2 build/Bootloader/production/_ext/1204855844/bootloader.o
- .debug_abbrev  0x00000000000002f2      0x16f build/Bootloader/production/_ext/297513190/plib_clk.o
- .debug_abbrev  0x0000000000000461      0x1e7 build/Bootloader/production/_ext/974286902/plib_coretimer.o
- .debug_abbrev  0x0000000000000648      0x1f0 build/Bootloader/production/_ext/633043527/plib_evic.o
- .debug_abbrev  0x0000000000000838      0x1ba build/Bootloader/production/_ext/633097355/plib_gpio.o
- .debug_abbrev  0x00000000000009f2      0x20f build/Bootloader/production/_ext/297529565/plib_tmr2.o
- .debug_abbrev  0x0000000000000c01      0x300 build/Bootloader/production/_ext/633500298/plib_uart1.o
- .debug_abbrev  0x0000000000000f01      0x1c1 build/Bootloader/production/_ext/297532171/plib_wdt.o
- .debug_abbrev  0x00000000000010c2      0x187 build/Bootloader/production/_ext/1591581672/initialization.o
- .debug_abbrev  0x0000000000001249      0x171 build/Bootloader/production/_ext/1360937237/main.o
- .debug_abbrev  0x00000000000013ba       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_abbrev  0x00000000000013eb       0x2e c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
- .debug_abbrev  0x0000000000001419       0x2e c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
- .debug_abbrev  0x0000000000001447       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
- .debug_abbrev  0x0000000000001478       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
- .debug_abbrev  0x00000000000014a9       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
- .debug_abbrev  0x00000000000014da       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
+ .debug_abbrev  0x0000000000000000      0x2d4 build/Bootloader/production/_ext/1204855844/bootloader.o
+ .debug_abbrev  0x00000000000002d4      0x16f build/Bootloader/production/_ext/297513190/plib_clk.o
+ .debug_abbrev  0x0000000000000443      0x1e7 build/Bootloader/production/_ext/974286902/plib_coretimer.o
+ .debug_abbrev  0x000000000000062a      0x1f0 build/Bootloader/production/_ext/633043527/plib_evic.o
+ .debug_abbrev  0x000000000000081a      0x1ba build/Bootloader/production/_ext/633097355/plib_gpio.o
+ .debug_abbrev  0x00000000000009d4      0x20f build/Bootloader/production/_ext/297529565/plib_tmr2.o
+ .debug_abbrev  0x0000000000000be3      0x300 build/Bootloader/production/_ext/633500298/plib_uart1.o
+ .debug_abbrev  0x0000000000000ee3      0x1c1 build/Bootloader/production/_ext/297532171/plib_wdt.o
+ .debug_abbrev  0x00000000000010a4      0x187 build/Bootloader/production/_ext/1591581672/initialization.o
+ .debug_abbrev  0x000000000000122b      0x171 build/Bootloader/production/_ext/1360937237/main.o
+ .debug_abbrev  0x000000000000139c       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x00000000000013cd       0x2e c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
+ .debug_abbrev  0x00000000000013fb       0x2e c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
+ .debug_abbrev  0x0000000000001429       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
+ .debug_abbrev  0x000000000000145a       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
+ .debug_abbrev  0x000000000000148b       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
+ .debug_abbrev  0x00000000000014bc       0x31 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
 
-.debug_line     0x0000000000000000     0x228d
+.debug_line     0x0000000000000000     0x229b
  *.elf(.debug_line)
  *(.debug_line)
- .debug_line    0x0000000000000000      0x47e build/Bootloader/production/_ext/1204855844/bootloader.o
- .debug_line    0x000000000000047e      0x1df build/Bootloader/production/_ext/297513190/plib_clk.o
- .debug_line    0x000000000000065d      0x2db build/Bootloader/production/_ext/974286902/plib_coretimer.o
- .debug_line    0x0000000000000938      0x33a build/Bootloader/production/_ext/633043527/plib_evic.o
- .debug_line    0x0000000000000c72      0x332 build/Bootloader/production/_ext/633097355/plib_gpio.o
- .debug_line    0x0000000000000fa4        0x0 build/Bootloader/production/_ext/297524073/plib_nvm.o
- .debug_line    0x0000000000000fa4      0x2fb build/Bootloader/production/_ext/297529565/plib_tmr2.o
- .debug_line    0x000000000000129f      0x4a8 build/Bootloader/production/_ext/633500298/plib_uart1.o
- .debug_line    0x0000000000001747      0x265 build/Bootloader/production/_ext/297532171/plib_wdt.o
- .debug_line    0x00000000000019ac      0x1eb build/Bootloader/production/_ext/1591581672/initialization.o
- .debug_line    0x0000000000001b97      0x1af build/Bootloader/production/_ext/1360937237/main.o
- .debug_line    0x0000000000001d46       0xca c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_line    0x0000000000001e10       0xa6 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
- .debug_line    0x0000000000001eb6       0xaa c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
- .debug_line    0x0000000000001f60       0xc9 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
- .debug_line    0x0000000000002029       0xc8 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
- .debug_line    0x00000000000020f1       0xca c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
- .debug_line    0x00000000000021bb       0xd2 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
+ .debug_line    0x0000000000000000      0x48c build/Bootloader/production/_ext/1204855844/bootloader.o
+ .debug_line    0x000000000000048c      0x1df build/Bootloader/production/_ext/297513190/plib_clk.o
+ .debug_line    0x000000000000066b      0x2db build/Bootloader/production/_ext/974286902/plib_coretimer.o
+ .debug_line    0x0000000000000946      0x33a build/Bootloader/production/_ext/633043527/plib_evic.o
+ .debug_line    0x0000000000000c80      0x332 build/Bootloader/production/_ext/633097355/plib_gpio.o
+ .debug_line    0x0000000000000fb2        0x0 build/Bootloader/production/_ext/297524073/plib_nvm.o
+ .debug_line    0x0000000000000fb2      0x2fb build/Bootloader/production/_ext/297529565/plib_tmr2.o
+ .debug_line    0x00000000000012ad      0x4a8 build/Bootloader/production/_ext/633500298/plib_uart1.o
+ .debug_line    0x0000000000001755      0x265 build/Bootloader/production/_ext/297532171/plib_wdt.o
+ .debug_line    0x00000000000019ba      0x1eb build/Bootloader/production/_ext/1591581672/initialization.o
+ .debug_line    0x0000000000001ba5      0x1af build/Bootloader/production/_ext/1360937237/main.o
+ .debug_line    0x0000000000001d54       0xca c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x0000000000001e1e       0xa6 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
+ .debug_line    0x0000000000001ec4       0xaa c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x0000000000001f6e       0xc9 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
+ .debug_line    0x0000000000002037       0xc8 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
+ .debug_line    0x00000000000020ff       0xca c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
+ .debug_line    0x00000000000021c9       0xd2 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
 
 .debug_frame    0x0000000000000000      0xb0c
  *.elf(.debug_frame)
@@ -2411,13 +2411,13 @@ END GROUP
  .gnu.attributes
                 0x00000000000000b0       0x10 build/Bootloader/production/_ext/1360937237/main.o
  .gnu.attributes
-                0x00000000000000c0       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
+                0x00000000000000c0       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
  .gnu.attributes
-                0x00000000000000d0       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccRz7nYM.o
+                0x00000000000000d0       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccLLZbN4.o
  .gnu.attributes
-                0x00000000000000e0       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000000000e0       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
  .gnu.attributes
-                0x00000000000000f0       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccdIdv1O.o
+                0x00000000000000f0       0x10 C:\Users\HAROLD~1\AppData\Local\Temp\ccssqdB0.o
  .gnu.attributes
                 0x0000000000000100       0x10 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
  .gnu.attributes
@@ -2518,10 +2518,10 @@ END GROUP
                 0x00000000bfc006d0                __pic32_tlb_init_values_end = ABSOLUTE (.)
                 0x00000000bfc00678                __pic32_tlb_init_values_count = 0x8
                 0x0000000000000200                _min_heap_size = 0x200
-LOAD C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
-LOAD C:\Users\HAROLD~1\AppData\Local\Temp\ccRz7nYM.o
-LOAD C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
-LOAD C:\Users\HAROLD~1\AppData\Local\Temp\ccdIdv1O.o
+LOAD C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
+LOAD C:\Users\HAROLD~1\AppData\Local\Temp\ccLLZbN4.o
+LOAD C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
+LOAD C:\Users\HAROLD~1\AppData\Local\Temp\ccssqdB0.o
 LOAD c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
 LOAD c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/fpu64\libgcc.a
 START GROUP
@@ -2546,72 +2546,72 @@ LOAD data_init
 .__vector_offset_BF810540_data
                 0x00000000bf810540       0xe8
  .__vector_offset_BF810540_data
-                0x00000000bf810540       0xe8 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf810540       0xe8 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF81079C_data
                 0x00000000bf81079c       0x64
  .__vector_offset_BF81079C_data
-                0x00000000bf81079c       0x64 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf81079c       0x64 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF810740_data
                 0x00000000bf810740       0x50
  .__vector_offset_BF810740_data
-                0x00000000bf810740       0x50 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf810740       0x50 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF81062C_data
                 0x00000000bf81062c       0x4c
  .__vector_offset_BF81062C_data
-                0x00000000bf81062c       0x4c C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf81062c       0x4c C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF8106F4_data
                 0x00000000bf8106f4       0x24
  .__vector_offset_BF8106F4_data
-                0x00000000bf8106f4       0x24 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf8106f4       0x24 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF81071C_data
                 0x00000000bf81071c       0x18
  .__vector_offset_BF81071C_data
-                0x00000000bf81071c       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf81071c       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF81080C_data
                 0x00000000bf81080c       0x18
  .__vector_offset_BF81080C_data
-                0x00000000bf81080c       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf81080c       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF810874_data
                 0x00000000bf810874       0x18
  .__vector_offset_BF810874_data
-                0x00000000bf810874       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf810874       0x18 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF8106D8_data
                 0x00000000bf8106d8       0x14
  .__vector_offset_BF8106D8_data
-                0x00000000bf8106d8       0x14 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf8106d8       0x14 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF810858_data
                 0x00000000bf810858       0x14
  .__vector_offset_BF810858_data
-                0x00000000bf810858       0x14 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf810858       0x14 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF810830_data
                 0x00000000bf810830        0xc
  .__vector_offset_BF810830_data
-                0x00000000bf810830        0xc C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf810830        0xc C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF810840_data
                 0x00000000bf810840        0xc
  .__vector_offset_BF810840_data
-                0x00000000bf810840        0xc C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf810840        0xc C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF810850_data
                 0x00000000bf810850        0x4
  .__vector_offset_BF810850_data
-                0x00000000bf810850        0x4 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf810850        0x4 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .__vector_offset_BF810894_data
                 0x00000000bf810894        0x4
  .__vector_offset_BF810894_data
-                0x00000000bf810894        0x4 C:\Users\HAROLD~1\AppData\Local\Temp\cccfqYS4.o
+                0x00000000bf810894        0x4 C:\Users\HAROLD~1\AppData\Local\Temp\ccK9UNYT.o
 
 .bss            0x0000000080000044       0xc8
  .bss           0x0000000080000044       0xc8 build/Bootloader/production/_ext/1204855844/bootloader.o
@@ -2688,27 +2688,33 @@ LOAD data_init
                 0x000000009fc0223c       0xb0 build/Bootloader/production/_ext/1204855844/bootloader.o
                 0x000000009fc0223c                NVMUnlock
 
+.text.bootloader_Task
+                0x000000009fc022ec       0x94
+ .text.bootloader_Task
+                0x000000009fc022ec       0x94 build/Bootloader/production/_ext/1204855844/bootloader.o
+                0x000000009fc022ec                bootloader_Task
+
 .text.TwoHexCharToBin
-                0x000000009fc022ec       0x90
+                0x000000009fc02380       0x90
  .text.TwoHexCharToBin
-                0x000000009fc022ec       0x90 build/Bootloader/production/_ext/1204855844/bootloader.o
-                0x000000009fc022ec                TwoHexCharToBin
+                0x000000009fc02380       0x90 build/Bootloader/production/_ext/1204855844/bootloader.o
+                0x000000009fc02380                TwoHexCharToBin
 
 .text.EightHexCharToBinLittleEndian
-                0x000000009fc0237c       0x8c
+                0x000000009fc02410       0x8c
  .text.EightHexCharToBinLittleEndian
-                0x000000009fc0237c       0x8c build/Bootloader/production/_ext/1204855844/bootloader.o
-                0x000000009fc0237c                EightHexCharToBinLittleEndian
+                0x000000009fc02410       0x8c build/Bootloader/production/_ext/1204855844/bootloader.o
+                0x000000009fc02410                EightHexCharToBinLittleEndian
 
-.text           0x000000009fc02408       0x8c
- .text          0x000000009fc02408       0x8c c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_data_init.o)
-                0x000000009fc02408                __pic32_data_init
+.text           0x000000009fc0249c       0x8c
+ .text          0x000000009fc0249c       0x8c c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_data_init.o)
+                0x000000009fc0249c                __pic32_data_init
 
 .text.FourHexCharToBinBigEndian
-                0x000000009fc02494       0x80
+                0x000000009fc02528       0x80
  .text.FourHexCharToBinBigEndian
-                0x000000009fc02494       0x80 build/Bootloader/production/_ext/1204855844/bootloader.o
-                0x000000009fc02494                FourHexCharToBinBigEndian
+                0x000000009fc02528       0x80 build/Bootloader/production/_ext/1204855844/bootloader.o
+                0x000000009fc02528                FourHexCharToBinBigEndian
 
 .text.run_Application
                 0x000000009fc01110       0x6c
@@ -2716,126 +2722,120 @@ LOAD data_init
                 0x000000009fc01110       0x6c build/Bootloader/production/_ext/1204855844/bootloader.o
                 0x000000009fc01110                run_Application
 
-.text.bootloader_Task
-                0x000000009fc01190       0x6c
- .text.bootloader_Task
-                0x000000009fc01190       0x6c build/Bootloader/production/_ext/1204855844/bootloader.o
-                0x000000009fc01190                bootloader_Task
-
 .text.HexCharToBin
-                0x000000009fc02514       0x68
+                0x000000009fc01190       0x68
  .text.HexCharToBin
-                0x000000009fc02514       0x68 build/Bootloader/production/_ext/1204855844/bootloader.o
-                0x000000009fc02514                HexCharToBin
+                0x000000009fc01190       0x68 build/Bootloader/production/_ext/1204855844/bootloader.o
+                0x000000009fc01190                HexCharToBin
 
 .text.EVIC_Initialize
-                0x000000009fc0257c       0x68
+                0x000000009fc025a8       0x68
  .text.EVIC_Initialize
-                0x000000009fc0257c       0x68 build/Bootloader/production/_ext/633043527/plib_evic.o
-                0x000000009fc0257c                EVIC_Initialize
+                0x000000009fc025a8       0x68 build/Bootloader/production/_ext/633043527/plib_evic.o
+                0x000000009fc025a8                EVIC_Initialize
 
 .text.UartWriteString
-                0x000000009fc025e4       0x64
+                0x000000009fc02610       0x64
  .text.UartWriteString
-                0x000000009fc025e4       0x64 build/Bootloader/production/_ext/1204855844/bootloader.o
-                0x000000009fc025e4                UartWriteString
+                0x000000009fc02610       0x64 build/Bootloader/production/_ext/1204855844/bootloader.o
+                0x000000009fc02610                UartWriteString
 
 .text.TMR2_Initialize
-                0x000000009fc02648       0x58
+                0x000000009fc02674       0x58
  .text.TMR2_Initialize
-                0x000000009fc02648       0x58 build/Bootloader/production/_ext/297529565/plib_tmr2.o
-                0x000000009fc02648                TMR2_Initialize
+                0x000000009fc02674       0x58 build/Bootloader/production/_ext/297529565/plib_tmr2.o
+                0x000000009fc02674                TMR2_Initialize
 
 .text.CORETIMER_Initialize
-                0x000000009fc026a0       0x54
+                0x000000009fc026cc       0x54
  .text.CORETIMER_Initialize
-                0x000000009fc026a0       0x54 build/Bootloader/production/_ext/974286902/plib_coretimer.o
-                0x000000009fc026a0                CORETIMER_Initialize
+                0x000000009fc026cc       0x54 build/Bootloader/production/_ext/974286902/plib_coretimer.o
+                0x000000009fc026cc                CORETIMER_Initialize
 
 .text.UART1_Initialize
-                0x000000009fc026f4       0x54
+                0x000000009fc02720       0x54
  .text.UART1_Initialize
-                0x000000009fc026f4       0x54 build/Bootloader/production/_ext/633500298/plib_uart1.o
-                0x000000009fc026f4                UART1_Initialize
+                0x000000009fc02720       0x54 build/Bootloader/production/_ext/633500298/plib_uart1.o
+                0x000000009fc02720                UART1_Initialize
 
 .text.main_entry
-                0x000000009fc02748       0x54
+                0x000000009fc02774       0x54
  .text.main_entry
-                0x000000009fc02748       0x54 C:\Users\HAROLD~1\AppData\Local\Temp\ccrhcRGL.o
-                0x000000009fc0277c                __crt0_exit
+                0x000000009fc02774       0x54 C:\Users\HAROLD~1\AppData\Local\Temp\cc0AlDzF.o
+                0x000000009fc027a8                __crt0_exit
 
 .text.UART1_WriteByte
-                0x000000009fc0279c       0x4c
+                0x000000009fc027c8       0x4c
  .text.UART1_WriteByte
-                0x000000009fc0279c       0x4c build/Bootloader/production/_ext/633500298/plib_uart1.o
-                0x000000009fc0279c                UART1_WriteByte
+                0x000000009fc027c8       0x4c build/Bootloader/production/_ext/633500298/plib_uart1.o
+                0x000000009fc027c8                UART1_WriteByte
 
 .text.UART1_ReceiverIsReady
-                0x000000009fc027e8       0x48
+                0x000000009fc02814       0x48
  .text.UART1_ReceiverIsReady
-                0x000000009fc027e8       0x48 build/Bootloader/production/_ext/633500298/plib_uart1.o
-                0x000000009fc027e8                UART1_ReceiverIsReady
+                0x000000009fc02814       0x48 build/Bootloader/production/_ext/633500298/plib_uart1.o
+                0x000000009fc02814                UART1_ReceiverIsReady
 
 .text._bootstrap_exception_handler
-                0x000000009fc02830       0x48
+                0x000000009fc0285c       0x48
  .text._bootstrap_exception_handler
-                0x000000009fc02830       0x48 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
-                0x000000009fc02830                _bootstrap_exception_handler
+                0x000000009fc0285c       0x48 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
+                0x000000009fc0285c                _bootstrap_exception_handler
 
 .text._general_exception_handler
-                0x000000009fc02878       0x48
+                0x000000009fc028a4       0x48
  .text._general_exception_handler
-                0x000000009fc02878       0x48 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
-                0x000000009fc02878                _general_exception_handler
+                0x000000009fc028a4       0x48 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
+                0x000000009fc028a4                _general_exception_handler
 
 .text._cache_err_exception_handler
-                0x000000009fc028c0       0x48
+                0x000000009fc028ec       0x48
  .text._cache_err_exception_handler
-                0x000000009fc028c0       0x48 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
-                0x000000009fc028c0                _cache_err_exception_handler
+                0x000000009fc028ec       0x48 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
+                0x000000009fc028ec                _cache_err_exception_handler
 
 .text._simple_tlb_refill_exception_handler
-                0x000000009fc02908       0x48
+                0x000000009fc02934       0x48
  .text._simple_tlb_refill_exception_handler
-                0x000000009fc02908       0x48 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
-                0x000000009fc02908                _simple_tlb_refill_exception_handler
+                0x000000009fc02934       0x48 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
+                0x000000009fc02934                _simple_tlb_refill_exception_handler
 
-.text           0x000000009fc02950       0x44
- .text          0x000000009fc02950       0x44 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
-                0x000000009fc02950                __pic32_software_reset
+.text           0x000000009fc0297c       0x44
+ .text          0x000000009fc0297c       0x44 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
+                0x000000009fc0297c                __pic32_software_reset
 
-.text.main      0x000000009fc02994       0x40
- .text.main     0x000000009fc02994       0x40 build/Bootloader/production/_ext/1360937237/main.o
-                0x000000009fc02994                main
+.text.main      0x000000009fc029c0       0x40
+ .text.main     0x000000009fc029c0       0x40 build/Bootloader/production/_ext/1360937237/main.o
+                0x000000009fc029c0                main
 
 .text.WDT_Clear
-                0x000000009fc029d4       0x3c
+                0x000000009fc02a00       0x3c
  .text.WDT_Clear
-                0x000000009fc029d4       0x3c build/Bootloader/production/_ext/297532171/plib_wdt.o
-                0x000000009fc029d4                WDT_Clear
+                0x000000009fc02a00       0x3c build/Bootloader/production/_ext/297532171/plib_wdt.o
+                0x000000009fc02a00                WDT_Clear
 
 .text.UART1_ReadByte
-                0x000000009fc02a10       0x28
+                0x000000009fc02a3c       0x28
  .text.UART1_ReadByte
-                0x000000009fc02a10       0x28 build/Bootloader/production/_ext/633500298/plib_uart1.o
-                0x000000009fc02a10                UART1_ReadByte
+                0x000000009fc02a3c       0x28 build/Bootloader/production/_ext/633500298/plib_uart1.o
+                0x000000009fc02a3c                UART1_ReadByte
 
-.MIPS.abiflags  0x000000009fc02a38       0x18
+.MIPS.abiflags  0x000000009fc02a68       0x18
  .MIPS.abiflags
-                0x000000009fc02a38       0x18 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\debug-exception-return.o
+                0x000000009fc02a68       0x18 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\debug-exception-return.o
 
-.text           0x000000009fc02a50       0x18
- .text          0x000000009fc02a50       0x18 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-nmi-handler.o)
-                0x000000009fc02a50                _nmi_handler
+.text           0x000000009fc02a80       0x18
+ .text          0x000000009fc02a80       0x18 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-nmi-handler.o)
+                0x000000009fc02a80                _nmi_handler
 
 .text._on_reset
-                0x000000009fc010ec        0x8
+                0x000000009fc011f8        0x8
  .text._on_reset
-                0x000000009fc010ec        0x8 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
-                0x000000009fc010ec                _on_reset
+                0x000000009fc011f8        0x8 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
+                0x000000009fc011f8                _on_reset
 
 .text._on_bootstrap
-                0x000000009fc010f4        0x8
+                0x000000009fc010ec        0x8
  .text._on_bootstrap
-                0x000000009fc010f4        0x8 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
-                0x000000009fc010f4                _on_bootstrap
+                0x000000009fc010ec        0x8 c:/program files/microchip/xc32/v4.00/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
+                0x000000009fc010ec                _on_bootstrap

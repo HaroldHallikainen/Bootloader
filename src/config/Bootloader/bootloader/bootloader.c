@@ -72,8 +72,11 @@ void run_Application(void){
 
 void bootloader_Task(void)
 {
-  UartWriteString("\r\nBootloader ready. Send hex file.\r\n");
   LedCounter(0xff);           // Light all LEDs on entering bootloader
+  while(0==MARK_HI_TOGGLEn_Get()){  // Loop here until button released
+     WDT_Clear(); 
+  }   
+  UartWriteString("\r\nBootloader ready. Send hex file.\r\n");
   while (1){
     if(UART1_ReceiverIsReady()){  // Character waiting in uart
       InterpretIntelHex((uint8_t) UART1_ReadByte());  // Go interpret character and send to program flash
