@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <project>                                  
-  <executable name="dist/Bootloader/production/Bootloader.X.production.elf">                 
+  <executable name="dist/Bootloader/debug/Bootloader.X.debug.elf">                 
     <memory name="program">                 
       <units>bytes</units>                 
       <length>17536</length>                 
-      <used>7316</used>                     
-      <free>10220</free>                     
+      <used>7328</used>                     
+      <free>10208</free>                     
     </memory>                              
     <memory name="data">              
       <units>bytes</units>                 
-      <length>131072</length>                 
-      <used>268</used>                     
-      <free>130804</free>                     
+      <length>131968</length>                 
+      <used>3852</used>                     
+      <free>128116</free>                     
     </memory>                              
   </executable>                            
 </project>                                 
